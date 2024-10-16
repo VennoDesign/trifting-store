@@ -83,6 +83,14 @@ main {
     flex-grow: 1;
 }
 
+#about {
+    color: white;
+}
+
+#contact {
+    color: white;
+}
+
 footer {
     text-align: center;
     padding: 20px;
